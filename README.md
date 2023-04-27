@@ -14,40 +14,12 @@ By integrating certain optimization solvers with deep neural networks, deep unfo
 ## 🚩 Results
 ![Network](/Figs/psnr_para.png)
 
+## 👀 Datasets
+- Train data: [train400](https://drive.google.com/file/d/15FatS3wYupcoJq44jxwkm6Kdr0rATPd0/view?usp=sharing)
+- Test data: Set11, [CBSD68](https://drive.google.com/file/d/1Q_tcV0d8bPU5g0lNhVSZXLFw0whFl8Nt/view?usp=sharing), [Urban100](https://drive.google.com/file/d/1cmYjEJlR2S6cqrPq8oQm3tF9lO2sU0gV/view?usp=sharing), [DIV2K](https://drive.google.com/file/d/1olYhGPuX8QJlewu9riPbiHQ7XiFx98ac/view?usp=sharing)
 
-## Dataset
+## :e-mail: Contact
+If you have any question, please email `songjiechong@pku.edu.cn`.
 
-### Train data
-
-[train400](https://drive.google.com/file/d/15FatS3wYupcoJq44jxwkm6Kdr0rATPd0/view?usp=sharing)
-
-### Test data
-
-Set11
-
-[CBSD68](https://drive.google.com/file/d/1Q_tcV0d8bPU5g0lNhVSZXLFw0whFl8Nt/view?usp=sharing)
-
-[Urban100](https://drive.google.com/file/d/1cmYjEJlR2S6cqrPq8oQm3tF9lO2sU0gV/view?usp=sharing)
-
-## Command
-
-### Train
-
-`python Train_CS_MADUN.py --cs_ratio 10/25/30/40/50                  ` 
-
-### Test
-
-`python TEST_CS_MADUN.py --cs_ratio 10/25/30/40/50 --test_name Set11/CBSD68/Urban100`
-
-## Citation
-
-If you find our work helpful in your resarch or work, please cite the following paper.
-
-```
-@inproceedings{song2021memory,
-  title={Memory-Augmented Deep Unfolding Network for Compressive Sensing},
-  author={Song, Jiechong and Chen, Bin and Zhang, Jian},
-  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM)},
-  year={2021}
-}
-```
+## :hugs: Acknowledgements
+This code is built on [FSOINet](https://github.com/cwjjun/fsoinet). We thank the authors for sharing their codes. 
