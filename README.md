@@ -1,7 +1,7 @@
 # Optimization-Inspired Cross-Attention Transformer for Compressive Sensing (CVPR 2023)
 This repository is for OCTUF introduced in the following paper：
 
-[Jiechong Song](https://scholar.google.com/citations?hl=en&user=EBOtupAAAAAJ), [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=en&oi=ao), Shiqi Wang, Siwei Ma, [Jian Zhang](http://jianzhang.tech/), "Optimization-Inspired Cross-Attention Transformer for Compressive Sensing", in the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [PDF]
+[Jiechong Song](https://scholar.google.com/citations?hl=en&user=EBOtupAAAAAJ), [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=en&oi=ao), Shiqi Wang, Siwei Ma, [Jian Zhang](http://jianzhang.tech/), "Optimization-Inspired Cross-Attention Transformer for Compressive Sensing", in the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://arxiv.org/abs/2304.13986)
 
 ## :art: Abstract
 
